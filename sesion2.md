@@ -1,11 +1,13 @@
 <!-- No borrar o modificar -->
+
 [Inicio](./index.md)
 
 ## Sesión 2
 
-
 <!-- Su documentación aquí -->
+
 # **Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.**
+
 **Instalación de Entornos de Desarrollo para Java**
 
 **Objetivo:** Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
@@ -23,6 +25,7 @@ El proceso de instalación de los entornos de desarrollo para Java, NetBeans IDE
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
 
 **1. Programa para calcular la hipotenusa de un triángulo rectángulo:**
+
 ```java copy
 import java.util.Scanner;
 
@@ -45,6 +48,7 @@ public class HipotenusaTriangulo {
 ```
 
 **2. Programa para determinar si un número es par o impar:**
+
 ```java copy
 import java.util.Scanner;
 
@@ -67,7 +71,8 @@ public class ParImpar {
 ```
 
 **3. Programa para calcular el tercer ángulo de un triángulo:**
-``` java copy
+
+```java copy
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -94,7 +99,7 @@ public class TercerAnguloTriangulo {
 
 **4. Programa para calcular el promedio de tres números:**
 
-``` java copy
+```java copy
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -119,7 +124,8 @@ public class PromedioTresNumeros {
 ```
 
 **5. Programa para calcular la longitud de una cadena de texto:**
-``` java copy
+
+```java copy
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -161,7 +167,8 @@ public class AreaTriangulo {
 ```
 
 **7. Programa para calcular la raíz cuadrada de un número:**
-```java copy 
+
+```java copy
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -180,7 +187,8 @@ public class RaizCuadrada {
 ```
 
 **8. Programa para calcular el máximo común divisor (MCD) de dos números:**
-``` java copy
+
+```java copy
 import java.util.Scanner;
 
 publicclass MaximoComunDivisor {
@@ -211,6 +219,7 @@ publicclass MaximoComunDivisor {
 ```
 
 **9. Programa para imprimir una cadena de texto en orden inverso:**
+
 ```java copy
 import java.util.Scanner;
 
@@ -234,6 +243,7 @@ public class CadenaInversa {
 ```
 
 **10. Programa para calcular el área de un rectángulo:**
+
 ```java copy
 import java.util.Scanner;
 
@@ -254,9 +264,3 @@ public class AreaRectangulo {
     }
 }
 ```
-
-
-
-
-
-

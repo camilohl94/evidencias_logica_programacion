@@ -1,19 +1,23 @@
 <!-- No borrar o modificar -->
+
 [Inicio](./index.md)
 
-## Sesión 5 
-
+## Sesión 5
 
 <!-- Su documentación aquí -->
+
 # Actividad 5: Ejercicios de bucles
+
 ## Resolver los siguientes ejercicios:
 
 ### Ejercicios - while
+
 - Pedir al usuario que ingrese un número y mostrar su tabla de multiplicar hasta el número 10.
 
-  **Solucion:**
+**Solucion:**
+
 ```java copy
-  import java.util.Scanner;
+import java.util.Scanner;
 
 
 public class EjersiciosDeBucles {
@@ -40,9 +44,10 @@ public class EjersiciosDeBucles {
 
 - Pedir al usuario que ingrese una cadena de caracteres y contar la cantidad de caracteres que son números.
 
-  **Solucion:**
+**Solucion:**
+
 ```java copy
-  import java.util.Scanner;
+import java.util.Scanner;
 
 public class EjersiciosDeBucles {
 
@@ -71,11 +76,13 @@ public class EjersiciosDeBucles {
 ```
 
 ### Ejercicios - do while
+
 - Escribe un programa en Java que imprima los números del 1 al 100, pero que se detenga si el usuario introduce un número negativo.
 
-  **Solucion:**
- ```java copy
-  import java.util.Scanner;
+**Solucion:**
+
+```java copy
+import java.util.Scanner;
 
 public class EjersiciosDeBucles {
 
@@ -96,7 +103,8 @@ public class EjersiciosDeBucles {
 
 - Escribe un programa en Java que pida al usuario un número entero e imprima la tabla de multiplicar de ese número, pero que se detenga si el usuario introduce el número 0.
 
-  **Solucion:**
+**Solucion:**
+
 ```java copy
 import java.util.Scanner;
 
@@ -122,9 +130,11 @@ public class EjersiciosDeBucles {
 ```
 
 ### Ejercicios - for
+
 - Imprimir los números impares del 1 al 50.
 
-  **Solucion:**
+**Solucion:**
+
 ```java copy
   public class EjersiciosDeBucles {
 
@@ -140,7 +150,8 @@ public class EjersiciosDeBucles {
 
 - Imprimir los números primos del 1 al 100.
 
-  **Solucion:**
+**Solucion:**
+
 ```java copy
 public class EjersiciosDeBucles {
 
@@ -170,10 +181,3 @@ public class EjersiciosDeBucles {
 
 }
 ```
-
-
-
-
-
-
-
