@@ -16,7 +16,7 @@
 
 **Solucion:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 
@@ -46,7 +46,7 @@ public class EjersiciosDeBucles {
 
 **Solucion:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class EjersiciosDeBucles {
@@ -81,7 +81,7 @@ public class EjersiciosDeBucles {
 
 **Solucion:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class EjersiciosDeBucles {
@@ -105,7 +105,7 @@ public class EjersiciosDeBucles {
 
 **Solucion:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class EjersiciosDeBucles {
@@ -135,7 +135,7 @@ public class EjersiciosDeBucles {
 
 **Solucion:**
 
-```java copy
+```java 
   public class EjersiciosDeBucles {
 
     public static void main(String[] args) {
@@ -152,7 +152,7 @@ public class EjersiciosDeBucles {
 
 **Solucion:**
 
-```java copy
+```java 
 public class EjersiciosDeBucles {
 
     public static void main(String[] args) {

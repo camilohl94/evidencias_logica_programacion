@@ -14,7 +14,7 @@ Escribe un programa que solicite al usuario dos números enteros y luego imprima
 
 ### Solucion:
 
-```java copy
+```java 
 import java.util.Scanner;
 
 
@@ -46,7 +46,7 @@ Escribe un programa que tome dos números enteros ingresados por el usuario y ca
 
 ### Solucion:
 
-```java copy
+```java 
  import java.util.Scanner;
 
 public class ActividadSesion3 {
@@ -76,7 +76,7 @@ Escribe un programa que solicite al usuario tres números enteros y realice las 
 
 ### Solucion:
 
-```java copy
+```java 
  import java.util.Scanner;
 
 
@@ -110,7 +110,7 @@ Escribe un programa que solicite al usuario dos números decimales y realice las
 
 ### Solucion:
 
-```java copy
+```java 
  import java.util.Scanner;
 
 
@@ -144,7 +144,7 @@ Escribe un programa que declare una variable entera y la inicialice con un valor
 
 ### Solucion:
 
-```java copy
+```java 
  public class ActividadSesion3_5 {
 
     public static void main(String[] args) {
@@ -167,7 +167,7 @@ Escribe un programa que declare una variable entera y la inicialice con un valor
 
 ### Solucion:
 
-```java copy
+```java 
  public class ActividadSesion3_6 {
 
     public static void main(String[] args) {
@@ -184,7 +184,7 @@ Escribe un programa que tome dos valores booleanos ingresados por el usuario y m
 
 ### Solucion:
 
-```java copy
+```java 
 import java.util.Scanner;
 
 
@@ -221,7 +221,7 @@ Escribe un programa que tome un número entero ingresado por el usuario y utilic
 
 ### Solucion:
 
-```java copy
+```java 
 import java.util.Scanner;
 
 

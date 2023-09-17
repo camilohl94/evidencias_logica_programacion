@@ -49,7 +49,7 @@ public class HipotenusaTriangulo {
 
 **2. Programa para determinar si un número es par o impar:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class ParImpar {
@@ -72,7 +72,7 @@ public class ParImpar {
 
 **3. Programa para calcular el tercer ángulo de un triángulo:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -99,7 +99,7 @@ public class TercerAnguloTriangulo {
 
 **4. Programa para calcular el promedio de tres números:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -125,7 +125,7 @@ public class PromedioTresNumeros {
 
 **5. Programa para calcular la longitud de una cadena de texto:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -145,7 +145,7 @@ public class LongitudCadena {
 
 **6. Programa para calcular el área de un triángulo:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class AreaTriangulo {
@@ -168,7 +168,7 @@ public class AreaTriangulo {
 
 **7. Programa para calcular la raíz cuadrada de un número:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -188,7 +188,7 @@ public class RaizCuadrada {
 
 **8. Programa para calcular el máximo común divisor (MCD) de dos números:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 publicclass MaximoComunDivisor {
@@ -220,7 +220,7 @@ publicclass MaximoComunDivisor {
 
 **9. Programa para imprimir una cadena de texto en orden inverso:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -244,7 +244,7 @@ public class CadenaInversa {
 
 **10. Programa para calcular el área de un rectángulo:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class AreaRectangulo {

@@ -8,7 +8,7 @@
 
 # Actividad 4: Ejercicios de control de flujo con expresiones compuestas
 
-```java copy
+```java 
 // Variables de tipo String
 String nombre = "Juan Pérez";
 String apellido = "González";
@@ -46,7 +46,7 @@ int semestre = 2;
 
   ## Solucion:
 
-```java copy
+```java 
   package com.mycompany.actividad_controlflujo;
 
 public class Actividad_ControlFlujo {
