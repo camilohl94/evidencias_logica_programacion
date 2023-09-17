@@ -26,7 +26,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
 
 **1. Programa para calcular la hipotenusa de un triángulo rectángulo:**
 
-```java copy
+```java 
 import java.util.Scanner;
 
 public class HipotenusaTriangulo {
