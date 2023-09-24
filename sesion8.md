@@ -19,8 +19,10 @@ Implementar los siguientes métodos:
 
 5. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
+
 ## Solucion:
- 1. Escribe un método que reciba dos números como parámetros y devuelva el mayor de los dos.
+
+1. Escribe un método que reciba dos números como parámetros y devuelva el mayor de los dos.
 
  ```java
  package com.mycompany.actividadsesion8_1;
@@ -84,6 +86,7 @@ public class ActividadSesion8_2 {
 }
 ```
 3. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las letras mayúsculas en minúsculas y viceversa.
+
 ```java 
 package com.mycompany.actividadsesion8_3;
 
