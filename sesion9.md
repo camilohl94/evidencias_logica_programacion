@@ -5,7 +5,10 @@
 
 
 <!-- Su documentación aquí -->
-# Calculadora de resistencias eléctricas
+
+# Actividad: Ejecicios de métodos en Java
+Resolver en parejas el ejercicio asignado por el docente.
+## Calculadora de resistencias eléctricas
 Una resistencia eléctrica es un componente electrónico que se utiliza para limitar el flujo de corriente eléctrica en un circuito. Es decir, su función es oponerse al paso de la corriente eléctrica y disminuir su intensidad.
 
 Las resistencias se componen generalmente de un material conductor, como el carbono o el metal, que se coloca en un cuerpo cerámico o de vidrio. El valor de la resistencia (es decir, la cantidad de oposición que ofrece al paso de la corriente eléctrica) se mide en ohms, y depende de la composición del material y de su geometría.
