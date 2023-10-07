@@ -92,7 +92,7 @@ Para este ejemplo se trabaja en el metodo main no hay necesdiad de crear mas met
  (`cantidadLadrillos = Math.ceil(areaPared / (areaLadrillo * ancho / anchoLadrillo));`)
  - Por ultimo se imprime un mensaje con la cantdidad de ladrillos que necesita para contruir la pared(`System.out.printf("Para construir la pared se necesitan %.0f ladrillos.", cantidadLadrillos);`).
 
- ## Calcular el movimiento rectilíneo uniforme
+## Calcular el movimiento rectilíneo uniforme
 El movimiento rectilíneo uniforme (MRU) es un tipo de movimiento en el cual un objeto se mueve en línea recta y a velocidad constante, es decir, su velocidad no cambia en el tiempo. En este tipo de movimiento, la trayectoria del objeto es una línea recta, por lo que su aceleración es cero.
 
 Un ejemplo común de MRU es un automóvil que se desplaza en una carretera recta y mantiene una velocidad constante durante todo el trayecto. Otro ejemplo es una pelota que cae verticalmente al suelo sin ser afectada por la resistencia del aire.
