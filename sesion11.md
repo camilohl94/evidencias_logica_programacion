@@ -175,6 +175,19 @@ resto = 0 % 2 = 0
 numeroBinario = 01010
 
 ## Solucion:
+Metodo para conevertir de binario a decimal.
+
+```java 
+public class Main {
+    public static void main(String[] args) {
+        String binario = "100101";
+        int decimal = Integer.parseInt(binario, 2);
+
+        System.out.println("El número decimal equivalente es: " + decimal);
+    }
+}
+```
+
 
 
            
